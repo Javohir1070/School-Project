@@ -1,5 +1,5 @@
 import React from 'react'
-import School from "../assets/images/School.png"
+import School from "../assets/images/school.png"
 import {navbarList} from "../hooks/useRoute" 
 import { NavLink } from 'react-router-dom'
 
